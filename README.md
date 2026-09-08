@@ -61,3 +61,8 @@ In text classification tasks involving high-dimensional sparse matrices (generat
 - **Decision Boundary Tailoring:** Shifting the threshold to 0.6170 proved essential for capturing critical customer complaints without degrading overall system precision.
 - **Production-Ready Artifacts:** The finalized model was fully serialized into `sentiment_pipeline_model.joblib`, bridging the gap between exploratory data science and scalable software integration.
 
+👨‍💻 **Author**
+
+**Mehdi Ferdosi**  
+Computer Science Student | Machine Learning Enthusiast  
+GitHub: [https://github.com/mehdifr24](https://github.com/mehdifr24)
