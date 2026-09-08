@@ -40,8 +40,11 @@ To evaluate the classification models while mitigating class imbalance bias, the
 
 1. **Threshold Optimization & ROC Curve:** Shifting the decision boundary to **0.6170** (via Youden's J) significantly boosted the **Recall for minority (dissatisfied) reviews to 85%**. 
 2. **Visual Outputs:** 
-   - 📈 **[ROC Curve with Optimal Threshold](roc_curve_plot.png):** Visualizing the AUC (~0.90) and the precise operational threshold point.
-   - 📉 **[Top Vocabulary Drivers](feature_importance.png):** Horizontal bar chart mapping out positive semantic triggers (e.g., *boxy, dress, wish*) versus critical negative pain points (e.g., *right, falls, wide*).
+   - 📈 **[ROC Curve with Optimal Threshold]
+   -       
+
+   - 📉 **[Top Vocabulary Drivers]
+   - <img width="2596" height="1651" alt="image" src="https://github.com/user-attachments/assets/3c21b165-b82c-4bce-83fc-4ba8f9326805" />
 3. **Interactive Documentation:**
    - 🌐 **[View Interactive Architecture & Evaluation Report](https://htmlpreview.github.io/?https://github.com/mehdifr24/Customer-Sentiment-Pipeline/blob/main/outputs/pipeline_architecture_report.html)**: Explore the end-to-end data flow and detailed reports interactively in your browser.
 
