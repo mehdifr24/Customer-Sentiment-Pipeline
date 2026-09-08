@@ -36,7 +36,7 @@ To evaluate the classification models while mitigating class imbalance bias, the
 | Baseline Pipeline | Default Settings | ~0.8500 |
 | **Tuned Master Pipeline** | `C = 0.1`, `solver = 'liblinear'` | **0.9029** |
 
-📊 Results, Visual Artifacts & Interactive Reports
+📊 Results & Visual Artifacts
 
 1. **Threshold Optimization & ROC Curve:** Shifting the decision boundary to **0.6170** (via Youden's J) significantly boosted the **Recall for minority (dissatisfied) reviews to 85%**. 
 2. **Visual Outputs:** 
