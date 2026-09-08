@@ -49,6 +49,7 @@ To evaluate the classification models while mitigating class imbalance bias, the
 
    
    -**Pipeline Diagram**
+   -<img width="1643" height="365" alt="image" src="https://github.com/user-attachments/assets/acba050d-58b9-425a-9b44-e5797341d2d4" />
 
 
 🏆 Why Logistic Regression & Pipeline Architecture?
